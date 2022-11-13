@@ -1,5 +1,7 @@
 
-body {background-image:url("https://png.pngtree.com/background/20210709/original/pngtree-summer-solstice-pink-bouquet-chinese-style-poster-background-picture-image_941456.jpg");
+body {background-image:url(../img/fondo1.jpg);
+  background-repeat: repeat;
+
 }
 
 .titulo1 { background-color: #F7819F; color:#fff0f5 ; font-size: 300%;text-align:center; text-decoration:underline;
@@ -8,6 +10,7 @@ body {background-image:url("https://png.pngtree.com/background/20210709/original
 .subtitulo1 { background-color: #F7819F; color:#fff0f5 ; font-size: 200%;
 
 }
+.subtitulo2 {  color:#D81B60  ; font-size: 100%;}
 
 .img1{ width: 60%; height: auto; text-align: center;
 
@@ -21,3 +24,22 @@ body {background-image:url("https://png.pngtree.com/background/20210709/original
 }
 
 .ol1 {font-size: 150%;}
+
+header {background-color: pink;
+  border: 3px #F06292   solid;
+  }
+
+nav{background-color:#F5B7B1 ; font-size: 15px;}
+
+
+footer {background-color: #E6B0AA }
+.link1 { font-size: 150%}
+
+.imgwtsp {
+  width: 50px;
+  position: fixed;
+  bottom: 10px;
+  right: 15px;}
+
+.imgredes{
+    width: 50px;}
